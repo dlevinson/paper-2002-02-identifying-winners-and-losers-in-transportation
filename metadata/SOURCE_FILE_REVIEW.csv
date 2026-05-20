@@ -1,0 +1,9 @@
+relative_path,source_path,decision,reason
+data/original/169Data,/Users/dlev2617/Documents/Data/~Nexus_Data/Ramps/169Data,included,Direct Route 169 ramp-meter source files matching the paper's Route 169 on/off analysis.
+data/workbooks/original,/Users/dlev2617/Documents/Data/~Nexus_Data/Ramps,included_selected,Selected Route 169 mobility/equity/accessibility workbooks; broad non-target ramp-meter files excluded.
+code/original/ramp.c,/Users/dlev2617/Documents/Data/~Nexus_Data/Ramps/Source/ramp.c,included,Small source file from ramp-meter processing source folder.
+code/original/freewaysegment.c,/Users/dlev2617/Documents/Data/~Nexus_Data/Ramps/Source/freewaysegment.c,included,Small source file from ramp-meter processing source folder.
+documentation/source_reports/Task2-5-29-01.pdf,/Users/dlev2617/Documents/Projects-Completed/MnDOT-Ramps and Equity/Task2/Task2-5-29-01.pdf,included,Methodology/report text explicitly discusses Route 169 ramp-meter equity and mobility analysis.
+documentation/source_reports/APPENDICES.pdf,/Users/dlev2617/Documents/Projects-Completed/MnDOT-Ramps and Equity/Task2/APPENDICES.pdf,included,Appendix documentation for Route 169 ramp-meter mobility/equity calculations.
+TRR-WinnersAndLosers source folder,/Users/dlev2617/Documents/Papers/~05-Published/Transportation Research Record (TRR) - Journal of the Transportation Research Board/TRR-WinnersAndLosers,excluded_except_paper_reference,Folder contains drafts/presentation/literature/reference material and one HWY99 public-series workbook; not the Route 169 data package.
+TRa-RampMetersOnTrial broad folder,/Users/dlev2617/Documents/Papers/~05-Published/Transportation Research part A/TRa-RampMetersOnTrial,excluded_except_method_context,Broad ramp-meter paper/project folder with drafts, correspondence, presentations, reports, and related but non-target files.

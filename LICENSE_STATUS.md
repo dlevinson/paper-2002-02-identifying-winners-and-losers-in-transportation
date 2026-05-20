@@ -1,0 +1,13 @@
+# License Status: Identifying Winners and Losers in Transportation
+
+Generated: 2026-05-20 13:10:44 AEST
+
+Recorded license/access note from the verified audit row: Publisher terms apply to the article PDF; selected Route 169 ramp-meter data/code appear project/public-agency research materials and need final repository license wording before release.
+
+Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+
+## Practical Rule
+
+- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
+- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
+- Third-party raw data and publisher PDFs are not relicensed here.
