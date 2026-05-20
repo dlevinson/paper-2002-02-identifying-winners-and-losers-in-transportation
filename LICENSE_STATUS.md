@@ -1,6 +1,6 @@
 # License Status: Identifying Winners and Losers in Transportation
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 06:40:20 AEST
 
 Recorded license/access note from the verified audit row: Publisher terms apply to the article PDF; selected Route 169 ramp-meter data/code appear project/public-agency research materials and need final repository license wording before release.
 
