@@ -1,5 +1,9 @@
 # Identifying Winners and Losers in Transportation
 
+## Contribution
+
+This paper brings distributional equity into transportation evaluation alongside conventional efficiency measures. Applying several quantitative equity metrics to Twin Cities ramp-meter data, it recommends an equity impact statement that identifies who participates in decisions and how mobility, economic, environmental, and health outcomes are distributed across population groups.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2002-02`
